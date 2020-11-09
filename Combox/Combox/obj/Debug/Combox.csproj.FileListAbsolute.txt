@@ -1,0 +1,10 @@
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\bin\Debug\Combox.exe.config
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\bin\Debug\Combox.exe
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\bin\Debug\Combox.pdb
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.csprojAssemblyReference.cache
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.Main.resources
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.Properties.Resources.resources
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.csproj.GenerateResource.cache
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.csproj.CoreCompileInputs.cache
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.exe
+C:\Users\tangminhtin\Desktop\winforms\Combox\Combox\obj\Debug\Combox.pdb

@@ -1,0 +1,13 @@
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\bin\Debug\VpApp.exe.config
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\bin\Debug\VpApp.exe
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.Login.resources
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.Main.resources
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.Properties.Resources.resources
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.csproj.GenerateResource.cache
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.csproj.CoreCompileInputs.cache
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.exe
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.pdb
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\bin\Debug\VpApp.pdb
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.csprojAssemblyReference.cache
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.SignUp.resources
+C:\Users\tangminhtin\Desktop\winforms\VpApp\VpApp\obj\Debug\VpApp.Confirmation.resources
